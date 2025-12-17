@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This project has migrated to Codeberg:** [codeberg.org/Gurjaka/Kanagawa-Wallpapers](https://codeberg.org/Gurjaka/Kanagawa-Wallpapers)
+>
+> From now on, it will only receive updates, issues, and pull requests on Codeberg. This GitHub repository is now **archived and read-only**.
+
 
 ---
 
